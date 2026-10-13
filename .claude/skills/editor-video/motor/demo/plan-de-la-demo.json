@@ -1,0 +1,140 @@
+{
+  "formatos": [
+    "horizontal",
+    "vertical"
+  ],
+  "subtitulos": true,
+  "encuadre_vertical": "auto",
+  "beats": [
+    {
+      "id": "l1",
+      "tipo": "logos",
+      "cuando": "Claude Opus 5.5",
+      "duracion": 1.9,
+      "items": [
+        {
+          "logo": "claude",
+          "nombre": "Claude",
+          "clave": "Opus 5.5",
+          "cuando": "Claude"
+        }
+      ],
+      "inicio": 0.46
+    },
+    {
+      "id": "p1",
+      "tipo": "palabra",
+      "cuando": "utilizando mal",
+      "texto": "Lo estás utilizando",
+      "clave": "mal",
+      "duracion": 1.6,
+      "inicio": 4.08
+    },
+    {
+      "id": "t1",
+      "tipo": "tachado",
+      "inicio": 5.62,
+      "duracion": 1.75,
+      "texto": "Lo digo yo",
+      "nueva": "Anthropic",
+      "cuando_tacha": "lo dice",
+      "cuando_nueva": "Anthropic",
+      "posicion": "derecha"
+    },
+    {
+      "id": "rotulo",
+      "tipo": "rotulo",
+      "inicio": 7.45,
+      "titulo": "Martín Toledo",
+      "subtitulo": "@soymartintoledo",
+      "duracion": 1.95
+    },
+    {
+      "id": "b1",
+      "tipo": "barrido",
+      "cuando": "lo que antes",
+      "antes": "antes",
+      "despues": "ahora",
+      "cuando_ahora": "ahora",
+      "duracion": 5.0,
+      "inicio": 9.46
+    },
+    {
+      "id": "g1",
+      "tipo": "golpe3d",
+      "cuando": "Son 12 reglas",
+      "texto": "12",
+      "remate": "reglas oficiales",
+      "duracion": 2.5,
+      "posicion": "derecha",
+      "inicio": 14.68
+    },
+    {
+      "id": "c1",
+      "tipo": "contador",
+      "inicio": 17.25,
+      "hasta": "10",
+      "unidad": "minutos",
+      "cuando_cifra": "10 minutos",
+      "duracion": 1.3,
+      "posicion": "izquierda"
+    },
+    {
+      "id": "s2",
+      "tipo": "subtitulo",
+      "cuando": "en el mismo orden",
+      "duracion": 1.5,
+      "inicio": 18.52
+    },
+    {
+      "id": "f1",
+      "tipo": "fases",
+      "cuando": "Qué es",
+      "duracion": 2.6,
+      "items": [
+        {
+          "texto": "Qué es",
+          "cuando": "Qué es"
+        },
+        {
+          "texto": "Qué haces tú",
+          "cuando": "Qué haces tú"
+        },
+        {
+          "texto": "El texto para copiar",
+          "cuando": "el texto para copiar"
+        }
+      ],
+      "inicio": 20.08
+    },
+    {
+      "id": "k1",
+      "tipo": "terminal",
+      "inicio": 22.7,
+      "duracion": 3.3,
+      "titulo": "claude code",
+      "posicion": "derecha",
+      "lineas": [
+        {
+          "texto": "› a cada regla",
+          "cuando": "a cada una"
+        },
+        {
+          "texto": "  + una skill para rematar",
+          "cuando": "una skill"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "tipo": "palabra",
+      "cuando": "todo compactado",
+      "texto": "Todo compactado",
+      "clave": "en un solo kit",
+      "duracion": 2.7,
+      "inicio": 27.8
+    }
+  ],
+  "reels": [],
+  "aprobado": true
+}

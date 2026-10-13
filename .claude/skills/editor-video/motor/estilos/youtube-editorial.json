@@ -1,0 +1,24 @@
+{
+  "nombre": "youtube-editorial",
+  "descripcion": "El estilo de serie para YouTube: logos en 3D, frases por detrás de ti, transiciones limpias y subtítulos solo en lo importante.",
+  "para": "youtube",
+  "origen": "de serie (D-IA)",
+  "ritmo": {"recurso_cada_s": 6.0, "gancho_cada_s": 3.0, "aire_s": 0.25},
+  "recursos": {
+    "preferidos": ["palabra", "logos", "tachado", "contador", "fases", "terminal", "golpe3d"],
+    "evitar": []
+  },
+  "subtitulos": {"modo": "momentos", "palabras_por_linea": null, "mayusculas": false},
+  "textos": {"escala": 1.0},
+  "acento": null,
+  "tres_d": {"logos": true, "golpe": true, "barrido_luz": true},
+  "detras": true,
+  "transiciones": {"tipo": "latigo", "en_cambios_de_plano": true},
+  "zooms": {"ken_burns": 0.03, "empuje": 0.05, "golpes": false, "golpe_zoom": 0.07},
+  "musica": {"cama": false, "nivel_db": -20},
+  "sonidos": {"nivel": 1.0},
+  "notas": [
+    "Un recurso en pantalla cada vez, con aire entre dos.",
+    "El golpe 3D, una vez por vídeo como mucho: la cifra del vídeo."
+  ]
+}

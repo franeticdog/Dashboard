@@ -1,0 +1,5 @@
+{
+  "_nota": "Rutas del entorno (lo instalado: .venv, node_modules, modelos) y de las marcas guardadas, relativas a esta carpeta (motor). Con este archivo el kit funciona como skill: el proyecto es la carpeta desde donde se lanza.",
+  "entorno": "../../entorno",
+  "marcas": "../../marcas"
+}

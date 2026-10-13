@@ -1,0 +1,12 @@
+{
+  "name": "kit-editor-video-claude",
+  "private": true,
+  "description": "Kit Editor de Vídeo con Claude Code (D-IA · El Campamento). Las dependencias se instalan con /empezar.",
+  "license": "MIT",
+  "dependencies": {
+    "gsap": "3.15.0",
+    "hyperframes": "0.8.85",
+    "three": "0.186.1",
+    "fontkit": "2.0.4"
+  }
+}

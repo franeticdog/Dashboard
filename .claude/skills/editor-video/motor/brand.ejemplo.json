@@ -1,0 +1,60 @@
+{
+  "canal": {
+    "nombre": "Martín Toledo",
+    "handle": "@soymartintoledo",
+    "marca": "D-IA · El Campamento"
+  },
+  "colores": {
+    "principal": "#2fe39a",
+    "acento": "#e8b14c",
+    "texto": "#F2EDE3",
+    "panel": "#070b09",
+    "crema": "#F2EDE3"
+  },
+  "color_enfasis": "#D97757",
+  "tipografia": {
+    "titulos": "Archivo",
+    "texto": "Archivo"
+  },
+  "estilo": "dia-editorial",
+  "plantilla": "youtube-editorial",
+  "plantilla_reels": "reels-dinamico",
+  "logo": null,
+  "carpetas": {
+    "brutos": "brutos",
+    "finales": "finales"
+  },
+  "transcripcion": {
+    "idioma": "es",
+    "modelo": "turbo",
+    "glosario": [
+      "Claude",
+      "Claude Code",
+      "Claude Opus 5.5",
+      "Anthropic",
+      "CLAUDE.md",
+      "skills",
+      "tokens",
+      "D-IA",
+      "El Campamento"
+    ],
+    "correcciones": {
+      "Cloud Code": "Claude Code",
+      "Cloud Opus": "Claude Opus",
+      "Cloud Markdown": "CLAUDE.md"
+    }
+  },
+  "cortes": {
+    "silencio_min": 0.55,
+    "margen": 0.12,
+    "zoom_en_cortes": true
+  },
+  "subtitulos": {
+    "activados": true,
+    "mayusculas": false,
+    "palabras_por_linea_horizontal": 5,
+    "palabras_por_linea_vertical": 3
+  },
+  "musica": "auto",
+  "nivel_efectos": 1.0
+}
