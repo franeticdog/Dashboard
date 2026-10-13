@@ -1,0 +1,11 @@
+B-ROLL (IMÁGENES Y VÍDEOS DE RECURSO)
+
+Lo que dejes aquí puede tapar la cámara unos segundos mientras sigues hablando.
+
+- Fotos (.jpg, .png, .webp) con un zoom lento, o vídeos (.mp4, .mov) que se recortan solos
+  al formato (horizontal o vertical).
+- Pídelo en llano: «cuando digo "mi bandeja de correo", pon la foto bandeja.jpg».
+- Capturas de webs: «pon la web de anthropic.com cuando la nombro». El kit la captura en tu
+  ordenador con su navegador sin ventana y la guarda aquí (web-anthropic-com.png).
+- Imágenes que dibuja Claude: te escribe una ilustración en HTML/SVG y el kit la convierte en foto.
+- NUNCA se usan APIs de pago ni bancos de imágenes: usa material tuyo o con licencia.

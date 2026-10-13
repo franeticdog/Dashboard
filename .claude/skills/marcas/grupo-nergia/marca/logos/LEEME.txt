@@ -1,0 +1,13 @@
+LOGOS (SALEN EN 3D)
+
+Deja aquí los logos de tu marca, de tus clientes o de las herramientas de las que hablas.
+
+- Mejor en SVG: se extruye tal cual, con sus colores.
+- También en PNG (mejor con fondo transparente): el kit saca su silueta, la extruye y pone la
+  imagen en la cara. Si el PNG tiene fondo liso, ese color se toma como fondo.
+- El nombre del archivo es el nombre del logo: claude.svg -> «claude». Cuando dices esa palabra
+  en el vídeo, el plan te propone el recurso «logos» y sale en 3D.
+- Los que no estén aquí se buscan en el set «logos» de Iconify (licencia CC0) la primera vez.
+
+Vienen tres: claude.svg, hyperframes.svg y d-ia.svg. Los logos son marcas de sus dueños: úsalos
+solo para referirte a esa marca o herramienta.

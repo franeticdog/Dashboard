@@ -1,0 +1,15 @@
+SONIDOS DE MARCA
+
+Sonidos que suenan solos cuando dices una palabra: «dinero» -> caja registradora.
+
+1. Deja aquí el sonido (.wav, .mp3, .m4a…).
+2. Apúntalo en mapa.json: "palabra": "archivo.wav".
+   - Varias palabras: "euros": "caja.wav", "gratis": "caja.wav".
+   - Palabras que empiezan igual: "factur*" vale para factura, facturas, facturar…
+   - Más o menos volumen: "dinero": {"archivo": "caja.wav", "db": -4}.
+3. El mismo sonido no se repite en menos de 3 s, y manda sobre los efectos del kit
+   (que se apartan para que se oiga).
+
+caja.wav la sintetiza el propio kit (no es una muestra de nadie). Para volver a crearla:
+  python3 herramientas/kit.py sonido caja
+Usa solo sonidos tuyos o con licencia.

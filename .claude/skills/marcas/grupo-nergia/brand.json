@@ -1,0 +1,57 @@
+{
+  "canal": {
+    "nombre": "Grupo Nergia",
+    "handle": "@gruponergia_canals",
+    "marca": "Grupo Nergia"
+  },
+  "colores": {
+    "principal": "#032452",
+    "acento": "#0197DA",
+    "texto": "#F4F7FA",
+    "panel": "#040C18",
+    "crema": "#F4F7FA"
+  },
+  "color_enfasis": "#01B2ED",
+  "tipografia": {
+    "titulos": "Montserrat",
+    "texto": "Montserrat"
+  },
+  "estilo": "dia-editorial",
+  "plantilla": "youtube-editorial",
+  "plantilla_reels": "reels-dinamico",
+  "logo": "marca/logo.png",
+  "carpetas": {
+    "brutos": "brutos",
+    "finales": "finales"
+  },
+  "transcripcion": {
+    "idioma": "es",
+    "modelo": "turbo",
+    "glosario": [
+      "Grupo Nergia",
+      "Nergia",
+      "Canals"
+    ],
+    "correcciones": {
+      "Grupo Energía": "Grupo Nergia",
+      "Grupo Energia": "Grupo Nergia",
+      "Nergía": "Nergia",
+      "Tócalo": "Tocalo"
+    }
+  },
+  "cortes": {
+    "silencio_min": 0.55,
+    "margen": 0.12,
+    "zoom_en_cortes": true
+  },
+  "subtitulos": {
+    "activados": true,
+    "mayusculas": false,
+    "palabras_por_linea_horizontal": 4,
+    "palabras_por_linea_vertical": 3
+  },
+  "musica": "auto",
+  "nivel_efectos": 1.0,
+  "grano": false,
+  "vineta": false
+}

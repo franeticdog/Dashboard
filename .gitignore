@@ -2,3 +2,6 @@
 .claude/skills/entorno/
 .claude/skills/editor-video/motor/node_modules/
 __pycache__/
+# Música de cama de la marca: de terceros, no se publica en el repo
+.claude/skills/marcas/*/marca/musica/*.mp3
+.claude/skills/marcas/*/marca/musica/*.wav
