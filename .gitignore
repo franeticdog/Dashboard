@@ -1,3 +1,4 @@
 # Entorno del editor-video (Python, node_modules, modelos: ~3 GB), lo crea `kit.py instalar`
 .claude/skills/entorno/
 .claude/skills/editor-video/motor/node_modules/
+__pycache__/
